@@ -1,4 +1,3 @@
-### Hi there 👋
 
 - 🔭 I’m currently looking for a job as a Data Analyst.
 - 🌱 I’m currently learning PowerBI, Python, pyspark...
